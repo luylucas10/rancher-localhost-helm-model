@@ -1,0 +1,1 @@
+# rancher-localhost-helm-model
